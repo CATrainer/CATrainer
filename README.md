@@ -1,6 +1,6 @@
 # Caleb Trainer
 
-Software engineer near London. Outside work I'm going deep on ML engineering: building models, training runs and agent-security tools from scratch, and writing up what I learn.
+Software engineer, London. I'm going deep on ML engineering: building models, training runs and agent-security tools from scratch, and writing up what I learn.
 
 ## Building now
 
